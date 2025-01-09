@@ -1,12 +1,3 @@
-## KnowLedger Research Data Management Project 👋
+## KnowLedger Research Data Management Project
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+This project focuses on creation of an open ecosystem, KnowLedger, by developing a suite of components needed for an open digital research data management system that will nominally serve all research communities, putting the control of the development in the hands of the research community (as far as possible), promoting data science/informatics as an important part of all research activities, and encouraging research data sharing and reuse.
